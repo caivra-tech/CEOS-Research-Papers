@@ -5,8 +5,8 @@ type: collection
 authors:
   - family-names: "Serrano"
     given-names: "Christian"
-repository-code: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
-url: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+repository-code: "https://github.com/caivra-tech/CEOS-Research-Papers"
+url: "https://github.com/caivra-tech/CEOS-Research-Papers"
 date-released: "2026-09-26"
 keywords:
   - autonomous software engineering
@@ -31,5 +31,5 @@ preferred-citation:
   year: 2026
   month: 9
   doi: "10.5281/zenodo.22991325"
-  repository-code: "https://github.com/cserranno85-jpg/CEOS-Research-Papers"
+  repository-code: "https://github.com/caivra-tech/CEOS-Research-Papers"
   notes: "CEOS-RP-001; Technical Research Preprint; Version 1.0. Zenodo concept DOI for all versions: 10.5281/zenodo.22991324."

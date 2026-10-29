@@ -5,6 +5,7 @@ type: collection
 authors:
   - family-names: "Serrano"
     given-names: "Christian"
+    orcid: "https://orcid.org/0009-0009-8778-5800"
 repository-code: "https://github.com/caivra-tech/CEOS-Research-Papers"
 url: "https://github.com/caivra-tech/CEOS-Research-Papers"
 date-released: "2026-09-26"
@@ -26,6 +27,7 @@ preferred-citation:
   authors:
     - family-names: "Serrano"
       given-names: "Christian"
+      orcid: "https://orcid.org/0009-0009-8778-5800"
   institution:
     name: "Caivra Tech LLC"
   year: 2026

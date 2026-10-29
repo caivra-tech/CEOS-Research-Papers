@@ -77,6 +77,8 @@ No open-source software license is currently granted for the research corpus. Se
 Caivra Tech LLC  
 CEOS Research
 
+ORCID: [0009-0009-8778-5800](https://orcid.org/0009-0009-8778-5800)
+
 ---
 
 *CEOS Research Papers is a technical research repository. Preprints are research communications and should not be represented as peer-reviewed publications unless and until they have completed an applicable peer-review process.*

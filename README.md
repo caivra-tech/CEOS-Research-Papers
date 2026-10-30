@@ -32,6 +32,14 @@ Paper 001 presents the current CEOS Infrastructure research model: its sixteen-l
 
 See **papers/CEOS-RP-001/** for publication metadata and supporting documentation.
 
+## Related CaivraCore research (separate publication)
+
+**CC-RP-001 — Authority-Bound Execution for Agentic Systems: A Formal Architecture for Provenance-Validated Admission, Revocation Fencing, and Recoverable Effects**  
+Christian Serrano · Caivra Tech LLC · Technical research preprint · v0.5 · October 30, 2026  
+[Read the archival paper on Zenodo](https://doi.org/10.5281/zenodo.23823408) · [Author ORCID](https://orcid.org/0009-0009-8778-5800)
+
+This is a distinct CaivraCore-related theoretical research publication, **not a new CEOS-RP-001 version or CEOS implementation release**. The manuscript proposes authority-bound admission, provenance applicability, effect-time fencing and outcome reconciliation; it does **not** report completed model checking, controlled benchmarks, independent peer review or production validation. Its Zenodo manuscript is licensed under CC BY 4.0; this link does not change the separate rights status of this repository's research corpus.
+
 ## Epistemic classification
 
 | Class | Meaning |

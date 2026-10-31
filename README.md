@@ -84,6 +84,7 @@ No open-source software license is currently granted for the research corpus. Se
 **Christian Serrano**  
 Caivra Tech LLC  
 CEOS Research
+ResearchGate: [Christian Serrano](https://www.researchgate.net/profile/Christian-Serrano-8)
 
 ORCID: [0009-0009-8778-5800](https://orcid.org/0009-0009-8778-5800)
 
